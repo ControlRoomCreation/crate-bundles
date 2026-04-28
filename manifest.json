@@ -1,4 +1,17 @@
 {
-  "version": 1,
-  "bundles": []
+  "binaries": {
+    "ffmpeg": {
+      "sha256": "a90e3db6a3fd35f6074b013f948b1aa45b31c6375489d39e572bea3f18336584",
+      "url": "https://github.com/ControlRoomCreation/crate-bundles/releases/download/binaries-2026-04-28/ffmpeg",
+      "version": "6.0"
+    },
+    "yt-dlp": {
+      "sha256": "e80c47b3ce712acee51d5e3d4eace2d181b44d38f1942c3a32e3c7ff53cd9ed5",
+      "url": "https://github.com/ControlRoomCreation/crate-bundles/releases/download/binaries-2026-04-28/yt-dlp",
+      "version": "2026.03.17"
+    }
+  },
+  "schema_version": 1,
+  "updated_at": "2026-04-28T08:50:00Z",
+  "signature": "q17MoKobi97AB+bsr8a8kMsK6m8ZYQbtw1YwGYLBaWyZoeg++dzEhsWjUgl4wVkP1tBWVF00jhYH7iIeENuTAg=="
 }
